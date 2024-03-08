@@ -1,2 +1,3 @@
-# pai_practica1_ejercicio3
-Repo para el ejercicio 3 de la práctica 1
+# Ejercicio 3 de la práctica 1
+
+Dejá tu contribución en este repo.
