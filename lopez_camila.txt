@@ -1,5 +1,0 @@
-EJERCICIO 3
-Realizar una contribución en este repo completando los siguientes pasos:
-a.	Hacer un fork del repo.
-b.	En GitHub, crear un nuevo archivo cuyo nombre siga el formato apellido_nombre.txt con cualquier contenido.
-c.	Abrir un push request con un comentario adecuado.
